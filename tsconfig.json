@@ -6,6 +6,9 @@
       "src",
       "test"
     ],
+    "lib": [
+      "ES2021"
+    ],
     "declaration": false,
     "allowSyntheticDefaultImports": true,
     "resolveJsonModule": true,

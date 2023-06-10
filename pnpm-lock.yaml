@@ -29,6 +29,9 @@ devDependencies:
   '@tsconfig/recommended':
     specifier: ^1.0.2
     version: 1.0.2
+  '@types/css.escape':
+    specifier: ^1.5.0
+    version: 1.5.0
   '@types/lodash':
     specifier: ^4.14.195
     version: 4.14.195
@@ -47,6 +50,9 @@ devDependencies:
   cross-env:
     specifier: ^7.0.3
     version: 7.0.3
+  css.escape:
+    specifier: ^1.5.1
+    version: 1.5.1
   defu:
     specifier: ^6.1.2
     version: 6.1.2
@@ -657,6 +663,10 @@ packages:
 
   /@types/chai@4.3.5:
     resolution: {integrity: sha512-mEo1sAde+UCE6b2hxn332f1g1E8WfYRu6p5SvTKr2ZKC1f7gFJXk4h5PyGP9Dt6gCaG8y8XhwnXWC6Iy2cmBng==}
+    dev: true
+
+  /@types/css.escape@1.5.0:
+    resolution: {integrity: sha512-671nGwh8AQrhdjS584m9wypN0cJEzy7A97sReLuwypIXPiRqRcjKVnrO7Z72sS0QrwxlU7HraNgNITyr9u9Rpw==}
     dev: true
 
   /@types/estree@1.0.0:
@@ -1351,6 +1361,10 @@ packages:
       path-key: 3.1.1
       shebang-command: 2.0.0
       which: 2.0.2
+    dev: true
+
+  /css.escape@1.5.1:
+    resolution: {integrity: sha512-YUifsXXuknHlUsmlgyY0PKzgPOr7/FjCePfHNt0jxm83wHZi44VDMQ7/fGNkjY3/jV1MC+1CmZbaHzugyeRtpg==}
     dev: true
 
   /date-time@3.1.0:
