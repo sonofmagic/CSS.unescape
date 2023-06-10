@@ -34,7 +34,15 @@
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "keywords": [],
+  "keywords": [
+    "unescape",
+    "css",
+    "selector",
+    "css.escape",
+    "string",
+    "unicode",
+    "identifier"
+  ],
   "author": "SonOfMagic <qq1324318532@gmail.com>",
   "license": "MIT",
   "bugs": {

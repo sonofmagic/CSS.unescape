@@ -31,3 +31,7 @@ export interface CssUnescapeOptions {
   slashZero?: boolean
 }
 ```
+
+## License
+
+This polyfill is available under the [MIT](https://mths.be/mit) license.
